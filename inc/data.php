@@ -5,13 +5,6 @@ $priority = [
     "high"
 ];
 
-$percentage = [
-    0,
-    25,
-    50,
-    75,
-    100
-];
 $status = [
     "new",
     "in progress",

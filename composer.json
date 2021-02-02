@@ -1,9 +1,12 @@
 {
   "autoload": {
-    "name": "to_do_list",
-    "description": "description",
+    "name": "TODO",
+    "description": "Task manager app",
     "psr-4": {
-      "Todo\\": "app"
+      "TaskManager\\": "app"
     }
+  },
+  "require": {
+    "ext-pdo": "*"
   }
 }
